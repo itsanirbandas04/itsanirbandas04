@@ -32,7 +32,7 @@ I'm a final-year BTech CSE student with a strong focus on data analysis, busines
 `SQL` `PostgreSQL` `BigQuery` `Statistics`
 
 ### 🐍 Programming
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `C` `C++` `HTML` `CSS`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `C` `C++`
 
 ### 📊 Visualisation & BI
 `Microsoft Power BI` `Looker Studio` `Excel` `Google Sheets`
