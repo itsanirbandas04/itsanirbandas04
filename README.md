@@ -3,6 +3,7 @@
 
 🎯 Aspiring Data Analyst | Finance & Fintech Domain
 🎓 BTech CSE Final Year 2027 | Sister Nivedita University, Kolkata
+
 ☁️ SQL · Python · Power BI · GCP BigQuery · Looker Studio
 📍 Open to Data Analyst Internships & Fresher Roles
 
