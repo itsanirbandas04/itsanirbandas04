@@ -24,7 +24,7 @@
 
 ## 📈 LeetCode SQL Practice
 ![LeetCode](https://img.shields.io/badge/LeetCode-SQL%2050-orange)
-- Solving LeetCode SQL 50 daily
+- Solving LeetCode SQL Problems daily
 - Repository: [LeetCode-SQL-solutions](https://github.com/itsanirbandas04/LeetCode-SQL-solutions)
 
 ## 🤝 Connect
