@@ -46,14 +46,14 @@
 <!-- =============================  INTRO  ========================= -->
 <!-- ============================================================= -->
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" align="right" style="border-radius:50%;border:4px solid #36BCF7;"/>
-
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1200&color=36BCF7&center=false&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Anirban+Das+%F0%9F%91%8B" alt="Typing SVG - Name" />
-</h1>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" align="right"/>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A0AEC0&center=false&vCenter=true&width=600&height=90&lines=Data+Analyst+%26+Cloud+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+GCP+BigQuery;Open+to+Data+Analyst+Internships+%26+Fresher+Roles;Turning+raw+data+into+decisions.+Always+building.+%F0%9F%9A%80" alt="Typing SVG - Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=false&vCenter=true&width=430&height=50&lines=Hi%2C+I'm+Anirban+Das+%F0%9F%91%8B" alt="Typing SVG - Name" width="430"/>
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=A0AEC0&center=false&vCenter=true&width=430&height=110&lines=Data+Analyst+%26+Cloud+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+GCP+BigQuery;Open+to+Data+Analyst+Internships+%26+Fresher+Roles;Turning+raw+data+into+decisions.+Always+building.+%F0%9F%9A%80" alt="Typing SVG - Roles" width="430"/>
 </p>
 
 <p align="left">
@@ -95,10 +95,6 @@
 - 🎯 Actively looking for **Data Analyst internships / fresher roles**
 - ⚡ Fun fact: I'd rather write one clean SQL query than five messy Excel formulas
 - 📫 Reach me at **itsadas.04@gmail.com**
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" width="80%" alt="Random dev joke"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
@@ -165,9 +161,7 @@
 <p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card.</i></p>
 
 <details open>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=48&text=Bank%20Transactions%20%26%20Customer%20Risk%20Analytics%20Dashboard&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Bank Transactions & Customer Risk Analytics Dashboard"/>
-</summary>
+<summary><b>📊 Bank Transactions & Customer Risk Analytics Dashboard</b></summary>
 <br/>
 
 Built an interactive dashboard to flag high-risk customers and transaction
@@ -183,12 +177,10 @@ patterns from raw bank transaction data.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:1a1a2e&height=48&text=Retail%20Sales%20EDA%20%26%20Customer%20Insights&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Retail Sales EDA & Customer Insights"/>
-</summary>
+<summary><b>🛍️ Retail Sales EDA & Customer Insights</b></summary>
 <br/>
 
 Exploratory data analysis on retail sales data to uncover customer buying
@@ -206,12 +198,10 @@ patterns and product performance trends.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:1a1a2e&height=48&text=Global%20Procurement%20Cost%20%26%20FX%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Global Procurement Cost & FX Risk Analytics"/>
-</summary>
+<summary><b>🌍 Global Procurement Cost & FX Risk Analytics</b></summary>
 <br/>
 
 Analyzed multi-currency procurement spend to quantify exposure to foreign
@@ -228,12 +218,10 @@ exchange (FX) risk across global suppliers.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f172a&height=48&text=Revenue%20Leakage%20Detection%20%26%20Billing%20Audit%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Revenue Leakage Detection & Billing Audit Analytics"/>
-</summary>
+<summary><b>💸 Revenue Leakage Detection & Billing Audit Analytics</b></summary>
 <br/>
 
 Built an audit workflow to detect billing discrepancies and revenue leakage
@@ -250,12 +238,10 @@ points in transactional data.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1a1a2e&height=48&text=Cloud%20Cost%20Optimization%20%26%20Spend%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Cloud Cost Optimization & Spend Analytics"/>
-</summary>
+<summary><b>☁️ Cloud Cost Optimization & Spend Analytics</b></summary>
 <br/>
 
 Analyzed GCP billing data to identify cost-saving opportunities across
@@ -273,12 +259,10 @@ cloud services.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1a1a2e&height=48&text=Loan%20Portfolio%20Performance%20%26%20Credit%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Loan Portfolio Performance & Credit Risk Analytics"/>
-</summary>
+<summary><b>🏦 Loan Portfolio Performance & Credit Risk Analytics</b></summary>
 <br/>
 
 Analyzed a loan portfolio to assess repayment performance and credit risk
@@ -295,12 +279,10 @@ concentration.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
+---
 
 <details>
-<summary>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0f172a&height=48&text=Payment%20Fraud%20Monitoring%20%26%20Transaction%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Payment Fraud Monitoring & Transaction Risk Analytics"/>
-</summary>
+<summary><b>🕵️ Payment Fraud Monitoring & Transaction Risk Analytics</b></summary>
 <br/>
 
 Built a monitoring workflow to flag anomalous, potentially fraudulent
@@ -356,7 +338,7 @@ payment transactions.
   Duplicate the certification lines for each new course you complete.
 -->
 
-- 🎓 **B.Tech, Computer Science & Engineering** — Sister Nivedita University, Newtown, Kolkata
+- 🎓 **Sister Nivedita University, Newtown, Kolkata** — B.Tech (CSE)
 - 📜 **Large Language Models (LLM)** — Google Cloud, via Coursera
 - 📜 **Generative AI** — Google Cloud, via Coursera
 
@@ -407,65 +389,6 @@ payment transactions.
 <p align="center">
   <sub>⭐ If any of this inspired your own README, feel free to fork it and make it yours.</sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  CUSTOMIZATION GUIDE  ============ -->
-<!-- ============================================================= -->
-
-<details>
-<summary><b>🎨 Customization Guide (click to expand — not shown to visitors unless opened)</b></summary>
-<br/>
-
-This README was built to be easy to re-skin. Everything below is a find-and-replace.
-
-**1. Swap the accent color**
-<br/>
-The whole theme uses one hex code: `36BCF7`. It appears in every capsule-render
-banner (`color=0:36BCF7`), every typing SVG (`color=36BCF7`), and the image
-border. Find-and-replace `36BCF7` with any hex color (no `#`) to re-theme
-the entire page in one pass.
-
-| Color | Hex |
-|---|---|
-| Current (sky blue) | `36BCF7` |
-| Emerald | `10B981` |
-| Violet | `8B5CF6` |
-| Amber | `F59E0B` |
-| Rose | `F43F5E` |
-
-**2. Swap your username**
-<br/>
-Replace every instance of `itsanirbandas04` with your GitHub username —
-it's used in the visitor counter, stats card, streak stats, top languages,
-trophy case, and activity graph URLs.
-
-**3. Swap the moving image**
-<br/>
-Find the line near the top starting with
-`<img src="https://raw.githubusercontent.com/abhisheknaiidu/..."` and
-replace the `src` with your own photo or GIF. For it to actually move, the
-file must be a `.gif`, not a `.png`/`.jpg` — GitHub can't animate static
-images. `border-radius:50%` keeps it circular; use `20px` instead for
-rounded-corners-but-not-a-circle.
-
-**4. Add or remove projects**
-<br/>
-Each project is a self-contained `<details>…</details>` block under the
-Projects section — copy one, edit the title/description/badges, and paste
-it in to add a new project. Delete a block entirely to remove one.
-
-**5. Re-add GitHub stats / trophies later**
-<br/>
-If you ever want the GitHub stats cards, streak counter, or animated
-trophy case back, they're one-line image embeds — see
-[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:36BCF7&height=150&section=footer&animation=fadeIn" width="100%"/>
 
