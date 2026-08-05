@@ -1,4 +1,3 @@
-
 <!--
   ██████╗  █████╗ ███████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
   ██╔══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
@@ -12,16 +11,10 @@
   This README leans on every animation trick GitHub markdown natively
   supports, since GitHub itself does not execute CSS or JavaScript:
 
-    1. Capsule-render banners  -> animated gradient section dividers
+    1. Capsule-render banners  -> animated gradient section dividers,
+       and now also animated per-project headers (see Projects below)
     2. readme-typing-svg       -> the typing-cursor headline effect
     3. An animated GIF         -> the moving image on the right
-    4. github-readme-stats     -> live-updating stat cards
-    5. github-profile-trophy   -> animated trophy case (slideIn)
-    6. github-readme-streak    -> live streak counter
-    7. activity-graph          -> live commit activity chart
-    8. (optional) contribution-snake -> an animated snake that eats
-       your contribution graph — needs a one-time GitHub Action, see
-       the comment near the GitHub Analytics section below.
 
   Replace itsanirbandas04 with your GitHub username everywhere, and
   swap the GIF URL for your own photo/GIF if you'd like.
@@ -42,7 +35,6 @@
   <a href="#about">About</a> •
   <a href="#stack">Tech Stack</a> •
   <a href="#projects">Projects</a> •
-  <a href="#analytics">GitHub Analytics</a> •
   <a href="#learning">Currently Learning</a> •
   <a href="#education">Education</a> •
   <a href="#connect">Connect</a>
@@ -173,7 +165,9 @@
 <p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card.</i></p>
 
 <details open>
-<summary><b>📊 Bank Transactions & Customer Risk Analytics Dashboard</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=48&text=Bank%20Transactions%20%26%20Customer%20Risk%20Analytics%20Dashboard&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Bank Transactions & Customer Risk Analytics Dashboard"/>
+</summary>
 <br/>
 
 Built an interactive dashboard to flag high-risk customers and transaction
@@ -189,10 +183,12 @@ patterns from raw bank transaction data.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>🛍️ Retail Sales EDA & Customer Insights</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:1a1a2e&height=48&text=Retail%20Sales%20EDA%20%26%20Customer%20Insights&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Retail Sales EDA & Customer Insights"/>
+</summary>
 <br/>
 
 Exploratory data analysis on retail sales data to uncover customer buying
@@ -210,10 +206,12 @@ patterns and product performance trends.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>🌍 Global Procurement Cost & FX Risk Analytics</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:1a1a2e&height=48&text=Global%20Procurement%20Cost%20%26%20FX%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Global Procurement Cost & FX Risk Analytics"/>
+</summary>
 <br/>
 
 Analyzed multi-currency procurement spend to quantify exposure to foreign
@@ -230,10 +228,12 @@ exchange (FX) risk across global suppliers.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>💸 Revenue Leakage Detection & Billing Audit Analytics</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f172a&height=48&text=Revenue%20Leakage%20Detection%20%26%20Billing%20Audit%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Revenue Leakage Detection & Billing Audit Analytics"/>
+</summary>
 <br/>
 
 Built an audit workflow to detect billing discrepancies and revenue leakage
@@ -250,10 +250,12 @@ points in transactional data.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>☁️ Cloud Cost Optimization & Spend Analytics</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1a1a2e&height=48&text=Cloud%20Cost%20Optimization%20%26%20Spend%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Cloud Cost Optimization & Spend Analytics"/>
+</summary>
 <br/>
 
 Analyzed GCP billing data to identify cost-saving opportunities across
@@ -271,10 +273,12 @@ cloud services.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>🏦 Loan Portfolio Performance & Credit Risk Analytics</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1a1a2e&height=48&text=Loan%20Portfolio%20Performance%20%26%20Credit%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Loan Portfolio Performance & Credit Risk Analytics"/>
+</summary>
 <br/>
 
 Analyzed a loan portfolio to assess repayment performance and credit risk
@@ -291,10 +295,12 @@ concentration.
 
 </details>
 
-<p align="center">⸻</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=4&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <details>
-<summary><b>🕵️ Payment Fraud Monitoring & Transaction Risk Analytics</b></summary>
+<summary>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0f172a&height=48&text=Payment%20Fraud%20Monitoring%20%26%20Transaction%20Risk%20Analytics&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn&width=760" alt="Payment Fraud Monitoring & Transaction Risk Analytics"/>
+</summary>
 <br/>
 
 Built a monitoring workflow to flag anomalous, potentially fraudulent
@@ -311,56 +317,6 @@ payment transactions.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  GITHUB ANALYTICS  ================ -->
-<!-- ============================================================= -->
-
-<a name="analytics"></a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%88+GitHub+Analytics" alt="GitHub Analytics" />
-</p>
-
-<!-- Overall stats: commits, PRs, issues, stars -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsanirbandas04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <!-- Current & longest contribution streak -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=itsanirbandas04&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- Most-used languages across repos -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanirbandas04&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-  <!-- Animated trophy case — animation=slideIn makes each trophy slide in -->
-  <img src="https://github-profile-trophy.vercel.app/?username=itsanirbandas04&theme=tokyonight&no-frame=true&animation=slideIn&row=1&column=4" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- Commit activity over the last months, drawn as a line graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsanirbandas04&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<!--
-  ⌚ Optional: WakaTime weekly coding-time breakdown.
-  Setup: install the WakaTime extension in VS Code, connect your account,
-  then add a Profile Readme Stats workflow (github.com/anmol098/waka-readme)
-  to auto-update this block on a schedule. Once configured, replace this
-  comment with the generated markdown block from that action.
--->
-
-<!--
-  🐍 Optional: an animated "snake" that eats your contribution graph.
-  Setup (one-time, ~2 minutes):
-    1. Create a repo named exactly itsanirbandas04/itsanirbandas04
-    2. Add the Platane/snk GitHub Action to it (github.com/Platane/snk)
-    3. Once the action runs once, uncomment the line below — it will
-       render a live, animated SVG snake for you.
-
-  <img src="https://raw.githubusercontent.com/itsanirbandas04/itsanirbandas04/output/github-contribution-grid-snake.svg" width="100%"/>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
@@ -397,16 +353,14 @@ payment transactions.
 </p>
 
 <!--
-  Fill these in with your real details — placeholders shown below.
-  Duplicate the certification lines for each course you've completed.
+  Duplicate the certification lines for each new course you complete.
 -->
 
-- 🎓 **[Your Degree]** — [Your College / University] ([Start Year] – [End Year])
-- 📜 **[Certification name]** — [Issuing platform, e.g. Coursera / Google]
-- 📜 **[Certification name]** — [Issuing platform]
-- 📜 **[Certification name]** — [Issuing platform]
+- 🎓 **B.Tech, Computer Science & Engineering** — Sister Nivedita University, Newtown, Kolkata
+- 📜 **Large Language Models (LLM)** — Google Cloud, via Coursera
+- 📜 **Generative AI** — Google Cloud, via Coursera
 
-<p align="center"><i>Swap the brackets above for your real education & certifications.</i></p>
+<p align="center"><i>Add any further certifications above in the same format.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
@@ -502,10 +456,12 @@ Each project is a self-contained `<details>…</details>` block under the
 Projects section — copy one, edit the title/description/badges, and paste
 it in to add a new project. Delete a block entirely to remove one.
 
-**5. Enable the animated contribution snake**
+**5. Re-add GitHub stats / trophies later**
 <br/>
-See the HTML comment inside the GitHub Analytics section — it's a
-~2-minute one-time GitHub Actions setup, then it runs itself forever.
+If you ever want the GitHub stats cards, streak counter, or animated
+trophy case back, they're one-line image embeds — see
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy).
 
 </details>
 
