@@ -147,160 +147,66 @@
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> — notebooks for EDA
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  PROJECTS  ======================= -->
-<!-- ============================================================= -->
+<!-- ============================================================= --> <!-- ============================= PROJECTS ======================= --> <!-- ============================================================= -->
 
 <a name="projects"></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Projects" alt="Projects" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Projects" alt="Projects" /> </p> <p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card with its own animated mini-header.</i></p> <details open> <summary><b>📊 Bank Transactions & Customer Risk Analytics Dashboard</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card.</i></p>
+Built an interactive dashboard to flag high-risk customers and transaction patterns from raw bank transaction data.
 
-<details open>
-<summary><b>📊 Bank Transactions & Customer Risk Analytics Dashboard</b></summary>
-<br/>
+Cleaned & modeled transaction data with SQL before loading into Power BI
+Designed risk-scoring visuals to surface high-risk accounts at a glance
+Delivered a drill-down dashboard for branch-level and customer-level views
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <!-- Swap this for your real repo link once it's public --> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>🛍️ Retail Sales EDA & Customer Insights</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Retail%20EDA&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Built an interactive dashboard to flag high-risk customers and transaction
-patterns from raw bank transaction data.
+Exploratory data analysis on retail sales data to uncover customer buying patterns and product performance trends.
 
-- Cleaned & modeled transaction data with SQL before loading into Power BI
-- Designed risk-scoring visuals to surface high-risk accounts at a glance
-- Delivered a drill-down dashboard for branch-level and customer-level views
+Performed data cleaning & feature engineering with Pandas / NumPy
+Visualized sales trends and customer segments with Matplotlib & Seaborn
+Identified top-performing products and seasonal demand shifts
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>🌍 Global Procurement Cost & FX Risk Analytics</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=FX%20Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+Analyzed multi-currency procurement spend to quantify exposure to foreign exchange (FX) risk across global suppliers.
 
-</details>
+Built SQL pipelines to normalize procurement data across regions
+Modeled FX impact on landed cost with Python
+Delivered an executive Power BI dashboard for cost & risk monitoring
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>💸 Revenue Leakage Detection & Billing Audit Analytics</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Billing%20Audit&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
----
+Built an audit workflow to detect billing discrepancies and revenue leakage points in transactional data.
 
-<details>
-<summary><b>🛍️ Retail Sales EDA & Customer Insights</b></summary>
-<br/>
+Wrote reconciliation SQL queries to flag mismatched billing records
+Automated recurring leakage checks with Python scripts
+Visualized leakage hotspots by region and product line in Power BI
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>☁️ Cloud Cost Optimization & Spend Analytics</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Cloud%20Cost%20Optimization&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-Exploratory data analysis on retail sales data to uncover customer buying
-patterns and product performance trends.
+Analyzed GCP billing data to identify cost-saving opportunities across cloud services.
 
-- Performed data cleaning & feature engineering with Pandas / NumPy
-- Visualized sales trends and customer segments with Matplotlib & Seaborn
-- Identified top-performing products and seasonal demand shifts
+Queried billing exports with SQL in BigQuery
+Built cost-trend models in Python to forecast spend
+Delivered a Looker Studio dashboard tracking spend by service & project
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>🏦 Loan Portfolio Performance & Credit Risk Analytics</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Credit%20Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square">
+Analyzed a loan portfolio to assess repayment performance and credit risk concentration.
 
-</details>
+Segmented borrowers by risk tier using SQL
+Built default-risk indicators with Python
+Designed a Power BI dashboard tracking portfolio health over time
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details>
+<details> <summary><b>🕵️ Payment Fraud Monitoring & Transaction Risk Analytics</b></summary> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Fraud%20Monitoring&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
----
+Built a monitoring workflow to flag anomalous, potentially fraudulent payment transactions.
 
-<details>
-<summary><b>🌍 Global Procurement Cost & FX Risk Analytics</b></summary>
-<br/>
-
-Analyzed multi-currency procurement spend to quantify exposure to foreign
-exchange (FX) risk across global suppliers.
-
-- Built SQL pipelines to normalize procurement data across regions
-- Modeled FX impact on landed cost with Python
-- Delivered an executive Power BI dashboard for cost & risk monitoring
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-
-</details>
-
----
-
-<details>
-<summary><b>💸 Revenue Leakage Detection & Billing Audit Analytics</b></summary>
-<br/>
-
-Built an audit workflow to detect billing discrepancies and revenue leakage
-points in transactional data.
-
-- Wrote reconciliation SQL queries to flag mismatched billing records
-- Automated recurring leakage checks with Python scripts
-- Visualized leakage hotspots by region and product line in Power BI
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-
-</details>
-
----
-
-<details>
-<summary><b>☁️ Cloud Cost Optimization & Spend Analytics</b></summary>
-<br/>
-
-Analyzed GCP billing data to identify cost-saving opportunities across
-cloud services.
-
-- Queried billing exports with SQL in BigQuery
-- Built cost-trend models in Python to forecast spend
-- Delivered a Looker Studio dashboard tracking spend by service & project
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
-
-</details>
-
----
-
-<details>
-<summary><b>🏦 Loan Portfolio Performance & Credit Risk Analytics</b></summary>
-<br/>
-
-Analyzed a loan portfolio to assess repayment performance and credit risk
-concentration.
-
-- Segmented borrowers by risk tier using SQL
-- Built default-risk indicators with Python
-- Designed a Power BI dashboard tracking portfolio health over time
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-
-</details>
-
----
-
-<details>
-<summary><b>🕵️ Payment Fraud Monitoring & Transaction Risk Analytics</b></summary>
-<br/>
-
-Built a monitoring workflow to flag anomalous, potentially fraudulent
-payment transactions.
-
-- Queried transaction logs in BigQuery with SQL
-- Flagged anomalies with rule-based checks in Python
-- Delivered a Looker Studio dashboard for real-time fraud monitoring
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
+Queried transaction logs in BigQuery with SQL
+Flagged anomalies with rule-based checks in Python
+Delivered a Looker Studio dashboard for real-time fraud monitoring
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"> <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p> </details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <!-- ============================================================= -->
 <!-- =============================  LEARNING  ======================= -->
