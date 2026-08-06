@@ -1,4 +1,3 @@
-
 <!--
   ██████╗  █████╗ ███████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
   ██╔══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
@@ -8,65 +7,36 @@
   ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
 
   Anirban Das — Data Analyst & Cloud Enthusiast
-  =============================================================================
-  READ THIS BLOCK FIRST — it explains every animation trick used below and
-  why it was chosen. GitHub strips <style> tags and JavaScript from README
-  files for security, so this file relies ONLY on things GitHub genuinely
-  renders and animates:
+  =============================================
+  This README leans on every animation trick GitHub markdown natively
+  supports, since GitHub itself does not execute CSS or JavaScript:
 
-    1. Capsule-render banners     -> animated gradient section dividers
-                                      and per-project mini headers
-    2. readme-typing-svg          -> the typing-cursor headline effect
-    3. github-readme-stats        -> live stats / streak / top-languages
-                                      cards (auto-update, no setup needed
-                                      beyond swapping the username)
-    4. github-profile-trophy      -> animated trophy case
-    5. A custom animated SVG      -> assets/profile-animated.svg, a
-       (assets/profile-animated.svg)  rounded, zoom-in/zoom-out "breathing"
-                                      version of your photo, built with
-                                      native SVG <animate> tags (SMIL),
-                                      the same underlying technique
-                                      capsule-render itself uses. CSS
-                                      hover-zoom would NOT survive GitHub's
-                                      sanitizer, so this is the real,
-                                      working alternative — see the big
-                                      comment block inside that file for
-                                      full customization instructions.
+    1. Capsule-render banners  -> animated gradient section dividers,
+       and now also animated per-project headers (see Projects below)
+    2. readme-typing-svg       -> the typing-cursor headline effect
+    3. An animated GIF         -> the moving image on the right
 
-  SETUP CHECKLIST (do these 3 things, everything else already points at
-  your existing accounts):
-    [ ] Commit assets/profile-animated.svg into this repo
-    [ ] Inside that SVG, swap the sample href for the raw URL of your own
-        photo (instructions are in the SVG's own comment header)
-    [ ] Find-and-replace itsanirbandas04 -> your real GitHub username
-        everywhere in this file (stats/trophy/streak widgets are keyed to
-        the username in their URL)
+  Replace itsanirbandas04 with your GitHub username everywhere, and
+  swap the GIF URL for your own photo/GIF if you'd like.
 
-  A note on "why doesn't the typing text look done in the screenshot":
-  the typing-SVG headings render live in your browser and re-type on every
-  page load — a screenshot caught mid-sentence will always look "cut off".
-  That's expected, not broken.
+  Note on the "animation" you'll see while it's typing: the typing-SVG
+  headings render live in your browser and re-type on every page load —
+  a screenshot caught mid-sentence will always look "cut off", that's
+  expected, not broken.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1a2e&height=200&section=header&text=Anirban%20Das&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1a2e&height=200&section=header&animation=fadeIn" width="100%"/>
 
 <!-- ============================================================= -->
 <!-- =============================  TABLE OF CONTENTS  ============= -->
 <!-- ============================================================= -->
-<!--
-  Anchors below correspond to the <a name="..."> tags placed above each
-  section further down. If you rename a section heading, keep the anchor
-  name the same (or update both) or the link will silently 404-scroll.
--->
 
 <p align="center">
   <a href="#about">About</a> •
   <a href="#stack">Tech Stack</a> •
-  <a href="#stats">GitHub Stats</a> •
   <a href="#projects">Projects</a> •
   <a href="#learning">Currently Learning</a> •
   <a href="#education">Education</a> •
-  <a href="#support">Support</a> •
   <a href="#connect">Connect</a>
 </p>
 
@@ -75,14 +45,8 @@
 <!-- ============================================================= -->
 <!-- =============================  INTRO  ========================= -->
 <!-- ============================================================= -->
-<!--
-  The <img> below is the new rounded + zoom-animated version of your
-  photo (see assets/profile-animated.svg). It replaces the old plain
-  <img ... code.gif> line. Point the "src" at wherever you end up hosting
-  the SVG — usually the raw.githubusercontent.com URL of this same repo.
--->
 
-<img src="https://raw.githubusercontent.com/itsanirbandas04/itsanirbandas04/main/assets/profile-animated.svg" width="220" align="right"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" align="right"/>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=false&vCenter=true&width=430&height=50&lines=Hi%2C+I'm+Anirban+Das+%F0%9F%91%8B" alt="Typing SVG - Name" width="430"/>
@@ -107,14 +71,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itsanirbandas04&label=Profile%20Views&color=36BCF7&style=flat-square" />
   <img src="https://img.shields.io/github/followers/itsanirbandas04?label=Followers&style=flat-square&color=36BCF7" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2Fitsanirbandas04%2Fitsanirbandas04%2Fmain%2Fstatus.json&style=flat-square" alt="status badge (optional, see note below)"/>
 </p>
-
-<!--
-  The "Status" badge above is OPTIONAL and will 404 until you create a
-  status.json file like {"status":"Open to work"} in this repo. Delete
-  the line if you don't want a manually-editable status badge.
--->
 
 <br clear="both"/>
 
@@ -138,23 +95,6 @@
 - 🎯 Actively looking for **Data Analyst internships / fresher roles**
 - ⚡ Fun fact: I'd rather write one clean SQL query than five messy Excel formulas
 - 📫 Reach me at **itsadas.04@gmail.com**
-
-<details>
-<summary><b>🔎 A little more about how I work</b> — click to expand</summary>
-<br/>
-
-- I like starting every analysis by writing down the **one business
-  question** the output needs to answer, then working backward to the
-  query/dashboard — it keeps dashboards from turning into a wall of charts
-  nobody reads.
-- Most of my personal projects follow the same loop: **raw data → SQL
-  cleaning/modeling → Python for anything SQL is clumsy at → Power BI or
-  Looker Studio for the story**.
-- I keep a running list of "SQL patterns I keep reaching for" (window
-  functions, recursive CTEs, anti-joins for reconciliation) — happy to
-  swap notes if you're learning the same things.
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
@@ -206,66 +146,6 @@
 - <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> — primary editor
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"> — notebooks for EDA
 
-<details>
-<summary><b>📐 Self-rated proficiency</b> — click to expand (subjective, just a rough guide)</summary>
-<br/>
-
-| Skill | Comfort level |
-|---|---|
-| SQL | ████████████████░░░░ 80% |
-| Python (Pandas/NumPy) | ██████████████░░░░░░ 70% |
-| Power BI / DAX | ██████████████░░░░░░ 70% |
-| BigQuery / GCP | ███████████░░░░░░░░░ 55% |
-| Looker Studio | ██████████░░░░░░░░░░ 50% |
-
-<sub>These are plain text/unicode bars (no image dependency), so they
-render identically everywhere and never break if a badge service goes
-down.</sub>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  GITHUB STATS  ==================== -->
-<!-- ============================================================= -->
-<!--
-  This whole section is powered by github-readme-stats + trophy repos,
-  which are just images generated server-side per request — nothing to
-  install, they update automatically every time your profile is viewed.
-  Only the username in each URL needs to match yours.
--->
-
-<a name="stats"></a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%88+GitHub+Stats" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsanirbandas04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=itsanirbandas04&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanirbandas04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsanirbandas04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <!--
-    Contribution snake animation — this one needs a tiny bit of one-time
-    setup (a GitHub Action that regenerates the SVG on a schedule) since
-    it reads YOUR real contribution graph rather than a static template.
-    Steps: https://github.com/Platane/snk#-github-action
-    Once set up, it'll be a real animated snake eating your commit squares.
-  -->
-  <img src="https://raw.githubusercontent.com/itsanirbandas04/itsanirbandas04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
 <!-- ============================================================= -->
@@ -278,13 +158,11 @@ down.</sub>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+Projects" alt="Projects" />
 </p>
 
-<p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card with its own animated mini-header.</i></p>
+<p align="center"><i>Click any project below to expand it — each is a collapsible, interactive card.</i></p>
 
 <details open>
 <summary><b>📊 Bank Transactions & Customer Risk Analytics Dashboard</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Built an interactive dashboard to flag high-risk customers and transaction
 patterns from raw bank transaction data.
@@ -297,9 +175,6 @@ patterns from raw bank transaction data.
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 
-<!-- Swap this for your real repo link once it's public -->
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -307,8 +182,6 @@ patterns from raw bank transaction data.
 <details>
 <summary><b>🛍️ Retail Sales EDA & Customer Insights</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Retail%20EDA&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Exploratory data analysis on retail sales data to uncover customer buying
 patterns and product performance trends.
@@ -323,8 +196,6 @@ patterns and product performance trends.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square">
 
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -332,8 +203,6 @@ patterns and product performance trends.
 <details>
 <summary><b>🌍 Global Procurement Cost & FX Risk Analytics</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=FX%20Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Analyzed multi-currency procurement spend to quantify exposure to foreign
 exchange (FX) risk across global suppliers.
@@ -347,8 +216,6 @@ exchange (FX) risk across global suppliers.
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -356,8 +223,6 @@ exchange (FX) risk across global suppliers.
 <details>
 <summary><b>💸 Revenue Leakage Detection & Billing Audit Analytics</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Billing%20Audit&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Built an audit workflow to detect billing discrepancies and revenue leakage
 points in transactional data.
@@ -371,8 +236,6 @@ points in transactional data.
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -380,8 +243,6 @@ points in transactional data.
 <details>
 <summary><b>☁️ Cloud Cost Optimization & Spend Analytics</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Cloud%20Cost%20Optimization&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Analyzed GCP billing data to identify cost-saving opportunities across
 cloud services.
@@ -396,8 +257,6 @@ cloud services.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
 
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -405,8 +264,6 @@ cloud services.
 <details>
 <summary><b>🏦 Loan Portfolio Performance & Credit Risk Analytics</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Credit%20Risk%20Analytics&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Analyzed a loan portfolio to assess repayment performance and credit risk
 concentration.
@@ -420,8 +277,6 @@ concentration.
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
-
 </details>
 
 ---
@@ -429,8 +284,6 @@ concentration.
 <details>
 <summary><b>🕵️ Payment Fraud Monitoring & Transaction Risk Analytics</b></summary>
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:36BCF7&height=40&section=header&text=Fraud%20Monitoring&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 Built a monitoring workflow to flag anomalous, potentially fraudulent
 payment transactions.
@@ -444,8 +297,6 @@ payment transactions.
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white">
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-
-<p><a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white"></a></p>
 
 </details>
 
@@ -492,23 +343,6 @@ payment transactions.
 - 📜 **Generative AI** — Google Cloud, via Coursera
 
 <p align="center"><i>Add any further certifications above in the same format.</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  SUPPORT  ========================= -->
-<!-- ============================================================= -->
-
-<a name="support"></a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%E2%98%95+Support" alt="Support" />
-</p>
-
-<p align="center">
-  <!-- Optional — delete this block if you don't want donation buttons -->
-  <a href="#"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
 
