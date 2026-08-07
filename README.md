@@ -1,103 +1,18 @@
-<!--
-  ██████╗  █████╗ ███████╗    ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-  ██╔══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-  ██║  ██║███████║███████╗    ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
-  ██║  ██║██╔══██║╚════██║    ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
-  ██████╔╝██║  ██║███████║    ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
-  ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
 
-  Anirban Das — Data Analyst & Cloud Enthusiast
-  =============================================
-  This README leans on every animation trick GitHub markdown natively
-  supports, since GitHub itself does not execute CSS or JavaScript:
-
-    1. Capsule-render banners  -> animated gradient section dividers,
-       and now also animated per-project headers (see Projects below)
-    2. readme-typing-svg       -> the typing-cursor headline effect
-    3. An animated GIF         -> the moving image on the right
-
-  Replace itsanirbandas04 with your GitHub username everywhere, and
-  swap the GIF URL for your own photo/GIF if you'd like.
-
-  Note on the "animation" you'll see while it's typing: the typing-SVG
-  headings render live in your browser and re-type on every page load —
-  a screenshot caught mid-sentence will always look "cut off", that's
-  expected, not broken.
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1a2e&height=200&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  TABLE OF CONTENTS  ============= -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#learning">Currently Learning</a> •
-  <a href="#education">Education</a> •
-  <a href="#connect">Connect</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  INTRO  ========================= -->
-<!-- ============================================================= -->
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" align="right"/>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=false&vCenter=true&width=430&height=50&lines=Hi%2C+I'm+Anirban+Das+%F0%9F%91%8B" alt="Typing SVG - Name" width="430"/>
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=A0AEC0&center=false&vCenter=true&width=430&height=110&lines=Data+Analyst+%26+Cloud+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+GCP+BigQuery;Open+to+Data+Analyst+Internships+%26+Fresher+Roles;Turning+raw+data+into+decisions.+Always+building.+%F0%9F%9A%80" alt="Typing SVG - Roles" width="430"/>
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anirban-das-analyst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/u/itsadas04/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-  <a href="mailto:itsadas.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsanirbandas04&label=Profile%20Views&color=36BCF7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/itsanirbandas04?label=Followers&style=flat-square&color=36BCF7" />
-</p>
-
-<br clear="both"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=3&width=1000&section=header&animation=fadeIn" width="100%"/>
-
-<!-- ============================================================= -->
-<!-- =============================  ABOUT ME  ======================= -->
-<!-- ============================================================= -->
+<!-- ██████╗ █████╗ ███████╗ ██████╗ ██████╗ ██████╗ ███████╗██╗██╗ ███████╗ ██╔══██╗██╔══██╗██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║ ██╔════╝ ██║ ██║███████║███████╗ ██████╔╝██████╔╝██║ ██║█████╗ ██║██║ █████╗ ██║ ██║██╔══██║╚════██║ ██╔═══╝ ██╔══██╗██║ ██║██╔══╝ ██║██║ ██╔══╝ ██████╔╝██║ ██║███████║ ██║ ██║ ██║╚██████╔╝██║ ██║███████╗███████╗ ╚═════╝ ╚═╝ ╚═╝╚══════╝ ╚═╝ ╚═╝ ╚═╝ ╚═════╝ ╚═╝ ╚═╝╚══════╝╚══════╝ Anirban Das — Data Analyst & Cloud Enthusiast ============================================= Redesigned to echo the "dashboard" reference image using only what GitHub Markdown actually renders (no CSS/JS execution on GitHub): 1. capsule-render banners -> gradient dividers + per-project headers 2. readme-typing-svg -> the typing-cursor headline effect 3. progress-bar.dev images -> the "skill %" bars from the reference 4. skillicons.dev -> the tech-stack icon row 5. shields.io badges -> stat pills, contact buttons Replace itsanirbandas04 with your GitHub username everywhere. Sections marked TODO need your real project/education details — I didn't have those in the file you sent me, so I left clearly marked placeholders instead of inventing content for you. --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1a1a2e&height=200&section=header&text=Anirban%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%"/> <!-- ============================================================= --> <!-- ============================ NAV / TOC ======================= --> <!-- ============================================================= --> <p align="center"> <a href="#about"><b>About</b></a> &nbsp;•&nbsp; <a href="#stack"><b>Tech Stack</b></a> &nbsp;•&nbsp; <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp; <a href="#learning"><b>Currently Learning</b></a> &nbsp;•&nbsp; <a href="#education"><b>Education</b></a> &nbsp;•&nbsp; <a href="#connect"><b>Connect</b></a> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header" width="100%"/> <!-- ============================================================= --> <!-- ============================= INTRO ========================= --> <!-- ============================================================= --> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="220" align="right"/> <p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=36BCF7&center=false&vCenter=true&width=430&height=50&lines=Hi%2C+I'm+Anirban+Das+%F0%9F%91%8B" alt="Typing SVG - Name" width="430"/> </p> <p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=A0AEC0&center=false&vCenter=true&width=430&height=110&lines=Data+Analyst+%26+Cloud+Enthusiast;SQL+%7C+Python+%7C+Power+BI+%7C+GCP+BigQuery;Open+to+Data+Analyst+Internships+%26+Fresher+Roles;Turning+raw+data+into+decisions.+Always+building.+%F0%9F%9A%80" alt="Typing SVG - Roles" width="430"/> </p> <p align="left"> <a href="https://www.linkedin.com/in/anirban-das-analyst"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://leetcode.com/u/itsadas04/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"> </a> <a href="mailto:itsadas.04@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p> <br clear="both"/> <!-- ============================================================= --> <!-- ========================== STATS ROW ========================= --> <!-- ============================================================= --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsanirbandas04&label=Profile%20Views&color=36BCF7&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/itsanirbandas04?label=Followers&style=for-the-badge&color=36BCF7" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fitsanirbandas04%2Frepos&label=Repositories&query=%24.length&color=36BCF7&style=for-the-badge" /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=3&width=1000&section=header" width="100%"/> <!-- ============================================================= --> <!-- ============================= ABOUT ME ======================= --> <!-- ============================================================= -->
 
 <a name="about"></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
-</p>
-
-- 🔭 Currently working on end-to-end **data analytics dashboards** using SQL, Python & Power BI
-- ☁️ Exploring **cloud data warehousing** on Google Cloud Platform (BigQuery, Looker Studio)
-- 🧮 Comfortable turning messy, real-world data into clean, query-ready tables
-- 📊 Enjoy building dashboards that answer a business question in one glance
-- 🌱 Sharpening **SQL problem-solving** skills daily on LeetCode
-- 🎯 Actively looking for **Data Analyst internships / fresher roles**
-- ⚡ Fun fact: I'd rather write one clean SQL query than five messy Excel formulas
-- 📫 Reach me at **itsadas.04@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header&animation=fadeIn" width="100%"/>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" /> </p>
+🔭 Currently working on end-to-end data analytics dashboards using SQL, Python & Power BI
+☁️ Exploring cloud data warehousing on Google Cloud Platform (BigQuery, Looker Studio)
+🧮 Comfortable turning messy, real-world data into clean, query-ready tables
+📊 Enjoy building dashboards that answer a business question in one glance
+🌱 Sharpening SQL problem-solving skills daily on LeetCode
+🎯 Actively looking for Data Analyst internships / fresher roles
+⚡ Fun fact: I'd rather write one clean SQL query than five messy Excel formulas
+📫 Reach me at itsadas.04@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:1a1a2e&height=2&width=1000&section=header" width="100%"/>
 <!-- ============================================================= -->
 <!-- =============================  TECH STACK  ===================== -->
 <!-- ============================================================= -->
